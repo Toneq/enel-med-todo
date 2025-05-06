@@ -1,4 +1,4 @@
-Ten projekt zawiera aplikację backendową w Laravel oraz frontendową w Vue.js (Vite). Poniżej znajduje się kompletna instrukcja instalacji, konfiguracji środowiska, obsługi CORS i wdrożenia produkcyjnego.
+Ten projekt zawiera aplikację backendową w Laravel oraz frontendową w Vue.js (Vite). Poniżej znajduje się kompletna instrukcja instalacji, konfiguracji środowiska i obsługi CORS.
 
 ## Wymagania
 
@@ -6,7 +6,7 @@ Ten projekt zawiera aplikację backendową w Laravel oraz frontendową w Vue.js 
 - Composer  
 - Node.js >= 16  
 - npm  
-- MySQL / PostgreSQL
+- MySQL
 
 ## Instalacja
 
